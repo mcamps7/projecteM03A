@@ -457,7 +457,7 @@ public class S15_prj4_e3_CampsC {
                         }
                     }
                 }
-
+/*
                 System.out.println("\n -> Vols mostrar la quantitat de judokes"
                         + " segons el color de cinturó? SI (1) NO (0)");
                 if (scanner.hasNextInt()) {
@@ -478,7 +478,7 @@ public class S15_prj4_e3_CampsC {
                                 + numPerColor[5]);
                     }
                 }
-
+*/
                 System.out.println("\n -> Vol endreçar els judokes segons algun "
                         + "altre critèri? SI (1) NO (0)");
                 if (scanner.hasNextInt()) {
